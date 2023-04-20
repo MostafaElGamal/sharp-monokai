@@ -1,7 +1,7 @@
 {
-  "name": "sharp-monokai",
-  "displayName": "Sharp Monokai Dark Theme",
-  "description": "sharp monokai dark theme",
+  "name": "shape-monokai",
+  "displayName": "Shape Monokai Dark Theme",
+  "description": "Shape monokai dark theme",
   "version": "0.2.0",
   "publisher": "MustafaEl-gaml",
   "icon": "sharp_monokai_logo.png",
@@ -24,7 +24,9 @@
     "monokai theme",
     "monokai",
     "best monokai",
-    "top monokai"
+    "top monokai",
+    "sharp monokai",
+    "shape monokai"
   ],
   "engines": {
     "vscode": "^1.77.0"

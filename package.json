@@ -1,0 +1,22 @@
+{
+  "name": "sharp-monokai",
+  "displayName": "sharp-monokai",
+  "description": "sharp monokai dark theme",
+  "version": "0.0.1",
+  "publisher": "MustafaEl-gaml",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sharp Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sharp Monokai-color-theme.json"
+      }
+    ]
+  }
+}

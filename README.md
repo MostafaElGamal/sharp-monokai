@@ -1,5 +1,5 @@
-# sharp-monokai README
-
+![plot](./images/sharp_monokai_logo.png)
+# Sharp Monokai
 ## Best Monokai Theme
 ![plot](./images/1.png)
 

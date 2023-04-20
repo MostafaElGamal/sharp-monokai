@@ -1,9 +1,10 @@
 {
   "name": "sharp-monokai",
-  "displayName": "sharp-monokai",
+  "displayName": "Shap Monokai Dark Theme",
   "description": "sharp monokai dark theme",
   "version": "0.0.1",
   "publisher": "MustafaEl-gaml",
+  "icon": "./images/sharp_monokai_logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/MostafaElGamal/sharp-monokai"
